@@ -1,4 +1,4 @@
-[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js) [![Telegram](https://img.shields.io/badge/)](https://t.me/+sGo6ZZvy54wzYTll) [![Install](https://img.shields.io/badge/安装-005200)](https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js)
+[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js) [![Twitter](https://abs.twimg.com/responsive-web/client-web/icon-svg.ea5ff4aa.svg)](https://twitter.com/cloud0Sweet) [![Install](https://img.shields.io/badge/安装-005200)](https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js)
 
 
 一个神奇的[脚本](https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js)。
