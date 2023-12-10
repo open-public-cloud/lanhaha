@@ -1,7 +1,7 @@
-[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js) [![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)](https://t.me/+sGo6ZZvy54wzYTll) [![Install](https://img.shields.io/badge/安装-005200)](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)
+[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js) [![Telegram](https://img.shields.io/badge/)](https://t.me/+sGo6ZZvy54wzYTll) [![Install](https://img.shields.io/badge/安装-005200)](https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js)
 
 
-一个神奇的[脚本](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)。
+一个神奇的[脚本](https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js)。
 
 - [安装TM](#安装tm)
 - [安装脚本](#安装脚本)
@@ -61,7 +61,7 @@ X浏览器和VIA浏览器自带插件，无需安装。
    
    懒人脚本**完整版**安装地址: 
 
-   [https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)
+   [https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js](https://github.com/open-public-cloud/lanhaha/blob/main/jx.user.js)
 
 ## 使用
 
@@ -70,7 +70,7 @@ X浏览器和VIA浏览器自带插件，无需安装。
 <details><summary>脚本设置(重要)(展开)</summary>
 <p>
 
-![脚本设置](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/img/jbsetup.jpg)
+![脚本设置](https://github.com/open-public-cloud/lanhaha/blob/main/img/jbsetup.jpg)
 
     浏览器打开任意视频网站，在右上角Tampermonkey中打开脚本设置。
 
@@ -80,7 +80,7 @@ X浏览器和VIA浏览器自带插件，无需安装。
 <details><summary>观看VIP视频(展开)</summary>
 <p>
 
-![解析图标](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/img/zhanwai.jpg)
+![解析图标](https://github.com/open-public-cloud/lanhaha/blob/main/img/zhanwai.jpg)
 
     站内解析:
     1. 脚本“设置”-“解析设置”-“站外解析”调整为关闭状态
@@ -100,7 +100,7 @@ X浏览器和VIA浏览器自带插件，无需安装。
 <details><summary>抖音/快手/西瓜/bilibili下载(展开)</summary>
 <p>
 
-![抖音下载](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/img/douyin.jpg)
+![抖音下载](https://github.com/open-public-cloud/lanhaha/blob/main/img/douyin.jpg)
 
     1. 在douyin.com/kuaishou.com/xigua.com/bilibili.com任意视频播放窗口的下方播放工具条找到下载按钮
     2. 选择对应的下载方式点击就可以下载
@@ -162,7 +162,7 @@ X浏览器和VIA浏览器自带插件，无需安装。
 <details><summary>观看VIP视频(展开)</summary>
 <p>
 
-![移动vip](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/img/mobile.jpg)
+![移动vip](https://github.com/open-public-cloud/lanhaha/blob/main/img/mobile.jpg)
 
     浏览任意单个视频，鼠标点击左侧红色VIP图标，在弹出的窗口选择合适的线路点击即可在网页内播放。
 </p>
@@ -258,4 +258,3 @@ X浏览器和VIA浏览器自带插件，无需安装。
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)](https://t.me/+sGo6ZZvy54wzYTll)  [![Install](https://img.shields.io/badge/更新脚本-005200)](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)
